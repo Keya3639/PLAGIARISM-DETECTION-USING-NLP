@@ -100,3 +100,5 @@ With further development, it can become a highly reliable plagiarism analysis to
 
 ## OUTPUT:
 
+<img width="1835" height="802" alt="Image" src="https://github.com/user-attachments/assets/682c9fe2-968e-4e8e-aabb-6fbd3fa6e987" />
+<img width="1902" height="728" alt="Image" src="https://github.com/user-attachments/assets/2ebd37d6-8a72-49d4-be85-1550ee4b7623" />
